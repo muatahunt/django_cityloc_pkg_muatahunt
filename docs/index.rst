@@ -5,7 +5,7 @@
 
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
-..automodulle:: django_cityloc_pkg
+.. automodulle:: django_cityloc_pkg
     :members:
 .. toctree::
    :maxdepth: 2
